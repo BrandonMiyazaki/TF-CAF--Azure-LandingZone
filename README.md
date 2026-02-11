@@ -2,4 +2,4 @@ This repository contains sample Terraform code for deploying a Azure services. T
 
 This code can be freely used and expanded upon to build your own environments! I hope you find this code helpful to utilize in your learning journey. Please be mindful that deploying these resource will encure charges against cloud environment so be sure to delete resources when finished.
 
-Note that I do not actively maintain this repo.
+Note that I do not actively maintain this repo and this code is provided as is.
